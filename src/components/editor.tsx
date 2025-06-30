@@ -239,6 +239,7 @@ const Editor = ({ onSubmit, onCancel, placeholder = "Write Something......", def
                     "p-2 text-[10px] text-muted-foreground flex justify-end opacity-0 transition",
                     !isEmpty && "opacity-100")}>
                     <p>
+                        <strong>@ai</strong> to prompt the ai assisstant
                         <strong>Shift + Return</strong> to add a new line
                     </p>
                 </div>
