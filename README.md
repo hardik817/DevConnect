@@ -55,3 +55,6 @@ Client (Next.js + Tailwind + Shadcn)
 Auth (NextAuth v5 + RBAC)
         |
 AI Layer (OpenAI / Gemini / Custom agents)
+
+
+
