@@ -241,7 +241,7 @@ const Editor = ({ onSubmit, onCancel, placeholder = "Write Something......", def
                     <p className="px-2">
                         <strong>@ai</strong> to prompt the ai assisstant
 
-                        <strong>  Shift + Return</strong> to add a new line
+                        <strong className="px-2">  Shift + Return</strong> to add a new line
                     </p>
                 </div>
             )}
