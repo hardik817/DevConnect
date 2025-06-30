@@ -2,7 +2,8 @@
 
 **DevConnect** is a cutting-edge real-time communication platform designed for developers and teams. Built with **Next.js 14**, it combines modern UI/UX with robust backend architecture and AI-powered features to enhance collaboration like never before.
 
-![DevConnect Preview](\public\image.png) <!-- Replace with actual image path -->
+![DevConnect Preview](![Preview](public/image.png)
+) <!-- Replace with actual image path -->
 
 ---
 
