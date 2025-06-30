@@ -74,7 +74,7 @@ export const askGeminiAndCreateMessage = action({
                 model: model,
                 contents: contents,
                 config: {
-                    systemInstruction: "You are an assisstant in a developer chat. Answer in a concise manner with a little explanation and if possible respond in markdown.",
+                    systemInstruction: "You are an assisstant in a workspace environment. Answer in a concise manner with a little explanation and if possible respond in markdown.",
                 },
             });
 
