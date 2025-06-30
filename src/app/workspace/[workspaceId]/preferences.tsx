@@ -46,7 +46,7 @@ export const Preferences = ({ open, setOpen, initialValue }: PreferencesModalPro
             return
         }
         removeWorkspace({
-            workspaceId
+            id: workspaceId
         }, {
             onSuccess: () => {
                 toast.success("Workspace deleted");
