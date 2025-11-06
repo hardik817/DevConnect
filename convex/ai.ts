@@ -22,7 +22,7 @@ export const askGeminiAndCreateMessage = action({
             }
             const ai = new GoogleGenAI({ apiKey });
 
-            let model = "gemini-1.5-flash";
+            let model = "gemini-2.5-flash";
             let contents: any[] = [];
 
             if (args.imageStorageId) {
